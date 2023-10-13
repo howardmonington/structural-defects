@@ -1,0 +1,7 @@
+jupyter
+matplotlib
+tensorflow
+torch
+scipy
+pandas
+numpy
